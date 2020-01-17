@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+  <link href="bootstrap.min.css" rel="stylesheet">
+  <title>Password generator</title>
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+    <div class="container">
+      <a class="navbar-brand" href="#">Password generator</a>
+    </div>
+  </nav>
+
+  <!-- Page Content -->
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h1 class="mt-5">Let's generate a password!</h1>
+    <div class="inner-section">
+      <div class="password-section">
+      <div class="passwordfield" id="passwordfield">
+      <p>Your password will appear here...</p>
+    </div>
+    </div>
+    <div class="alert" id="alert"><span class="message" id="message"></div>
+      <p id="demo"></p>
+    <div class="settings">
+      <div class="setting">
+        <input type="checkbox" id="lowercase">
+        <label class="inputlabel" for="lowercase"><span class="checkbox">Include Lowercase Characters</span></label>
+      </div>
+      <div class="setting">
+        <input type="checkbox" id="uppercase">
+        <label class="inputlabel" for="uppercase"><span class="checkbox">Include Uppercase Characters</span></label>
+      </div>
+      <div class="setting">
+        <input type="checkbox" id="numbers">
+        <label class="inputlabel" for="numbers"><span class="checkbox">Include Numbers</span></label>
+      </div>
+      <div class="setting">
+        <input type="checkbox" id="spcharacters">
+        <label class="inputlabel" for="spcharacters"><span class="checkbox">Include Special Characters</span></label>
+      </div>
+      
+      <div id="outer">
+        <div class="inner"><button class="generate" id="generate">Ready to generate!</button></div>
+        <div class="inner"><button class="copy" id="copy">Copy to clipboard!</button></div>
+      </div>
+    </div>
+    </div>
+  </div>
+  <script src='https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js'></script>
+  <script  src="function.js"></script>
+</body>
+</html>
