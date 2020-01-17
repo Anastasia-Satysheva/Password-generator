@@ -1,6 +1,11 @@
 ## Welcome to Password generator website
 A little info about your project and/ or overview that explains what the project is about.
 
+AS AN employee with access to sensitive data
+I WANT to randomly generate a password that meets certain criteria
+SO THAT I can create a strong password that provides greater security
+
+
 ### Motivation
 A short description of the motivation behind the creation and maintenance of the project. This should explain why the project exists.
 
