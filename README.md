@@ -6,7 +6,7 @@ A password generator is a tool that automatically generates a password based on 
 A lot of users have an access to sensitive data. This app will help to randomly generate a password that meets certain criteria and provides security.
 
 ### Screenshots
-Include logo/demo screenshot etc.
+https://user-images.githubusercontent.com/57651598/72668074-ebd8a700-39f0-11ea-88e7-cbd226a208b7.png
 
 ### Tech/framework used
 Ex. -
