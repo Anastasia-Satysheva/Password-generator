@@ -7,6 +7,8 @@ A lot of users have an access to sensitive data. This app will help to randomly 
 ### Screenshots
 https://user-images.githubusercontent.com/57651598/72668074-ebd8a700-39f0-11ea-88e7-cbd226a208b7.png
 
+<img src = 
+
 ### Tech/framework used
 Built with Javascript, CSS and HTML.
 
