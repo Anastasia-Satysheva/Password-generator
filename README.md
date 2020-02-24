@@ -1,6 +1,8 @@
 ## Welcome to Password generator website
 A password generator is a tool that automatically generates a password based on guidelines that user sets to create strong and unpredictable passwords.
 
+### Check it out! Link: https://anastasia-satysheva.github.io/Password-generator/
+
 ### Features
 A lot of users have an access to sensitive data. This app will help to randomly generate a password that meets certain criteria and provides security.
 
